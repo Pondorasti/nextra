@@ -1,0 +1,11 @@
+{
+  "index": {
+    "title": "Recipes",
+    "type": "nav",
+    "hidden": true
+  },
+  "recipes": {
+    "title": "Recipes",
+    "type": "nav"
+  }
+}
