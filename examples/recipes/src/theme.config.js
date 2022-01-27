@@ -10,6 +10,16 @@ export default {
       </span>
     </>
   ),
+  head: (
+    <>
+      <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css"
+        media="print"
+        onLoad="this.media='all'"
+      />
+    </>
+  ),
   search: true,
   unstable_flexsearch: true,
   unstable_stork: false,
