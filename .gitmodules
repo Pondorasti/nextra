@@ -1,0 +1,3 @@
+[submodule "examples/recipes/src/pages/recipes"]
+	path = examples/recipes/src/pages/recipes
+	url = git@github.com:numel007/recipes.git
