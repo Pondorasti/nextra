@@ -64,6 +64,18 @@ importers:
       prism-react-renderer: 1.2.1_react@17.0.2
       prismjs: 1.25.0
 
+  examples/recipes:
+    specifiers:
+      nextra: workspace:*
+      nextra-theme-docs: workspace:*
+      prism-react-renderer: ^1.1.1
+      prismjs: ^1.22.0
+    dependencies:
+      nextra: link:../../packages/nextra
+      nextra-theme-docs: link:../../packages/nextra-theme-docs
+      prism-react-renderer: 1.2.1_react@17.0.2
+      prismjs: 1.25.0
+
   examples/swr-site:
     specifiers:
       '@reach/skip-nav': ^0.10.5
