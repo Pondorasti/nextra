@@ -1,4 +1,5 @@
 export default {
+  projectLink: 'https://github.com/numel007/recipes',
   github: 'https://github.com/numel007/recipes',
   docsRepositoryBase: 'https://github.com/numel007/recipes',
   titleSuffix: ' – Cookbook',
